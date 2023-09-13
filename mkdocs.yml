@@ -1,3 +1,21 @@
-site_name: My Docs
+site_name: Цифровой Кооператив
 theme:
   name: material
+  language: ru
+  features:
+    - navigation.indexes 
+    - toc.follow
+    
+repo_url: https://github.com/dicoop/contracts
+plugins:
+    - search
+    - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true   
