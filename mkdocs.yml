@@ -8,7 +8,7 @@ theme:
   language: ru
   features:
     - navigation.path
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
@@ -16,7 +16,7 @@ theme:
     - toc.follow
     # - toc.integrate
     - search.share
-repo_url: https://github.com/dicoop/contracts
+repo_url: https://github.com/dicoop
 plugins:
     - search
     - awesome-pages
@@ -43,8 +43,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true   
 nav:
-  - Краткий обзор: 
-    - Добро пожаловать: welcome/index.md
-    - Создать аккаунт: registration.md
-    - Вступить в пайщики: joincoop.md
-  - Обозреватель: https://google.com
+  - Добро пожаловать: welcome/index.md
+  - Создать аккаунт: registration.md
+  - Вступить в пайщики: joincoop.md
+  # - Обозреватель: https://google.com
