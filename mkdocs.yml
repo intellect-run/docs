@@ -1,21 +1,43 @@
 site_name: Цифровой Кооператив
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    primary: indigo
+  # logo: assets/logo.png
   language: ru
   features:
     - navigation.indexes 
     - toc.follow
-    
+    - toc.integrate
+    - search.share
 repo_url: https://github.com/dicoop/contracts
 plugins:
     - search
     - awesome-pages
+    # - social:
+    #   cards_layout: default
+
+  
+extra:
+  generator: false
+
+# copyright: Copyright &copy; 2023
 
 markdown_extensions:
   - admonition
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
   - pymdownx.tabbed:
       alternate_style: true   
+nav:
+  - Добро пожаловать: index.md
+  - Создать аккаунт: registration.md
+  - Вступить в пайщики: joincoop.md
