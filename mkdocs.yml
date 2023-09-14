@@ -7,7 +7,12 @@ theme:
   # logo: assets/logo.png
   language: ru
   features:
-    - navigation.indexes 
+    - navigation.path
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.expand
     - toc.follow
     # - toc.integrate
     - search.share
@@ -38,6 +43,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true   
 nav:
-  - Добро пожаловать: index.md
-  - Создать аккаунт: registration.md
-  - Вступить в пайщики: joincoop.md
+  - Краткий обзор: 
+    - Добро пожаловать: welcome/index.md
+    - Создать аккаунт: registration.md
+    - Вступить в пайщики: joincoop.md
+  - Обозреватель: https://google.com

@@ -103,7 +103,7 @@ title: Вступить в пайщики
 !!! note "Регистрация физического лица"
     === "cleos"
         ```bash
-        cleos push action registrator reguser '[username, storage_id, "data_id"]' -p username
+        cleos push action registrator reguser '[username, "profile_hash"]' -p username
         ```
     === "js"
         ```javascript
@@ -117,8 +117,7 @@ title: Вступить в пайщики
                 }],
                 data: {
                     username: 'username',
-                    storage_id: storage_id_value,
-                    data_id: 'data_id_value'
+                    data_id: 'profile_hash'
                 },
             }]
         }, {
@@ -131,9 +130,7 @@ title: Вступить в пайщики
 
     - `username (eosio::name)`: Имя аккаунта пользователя в системе.
 
-    - `storage_id (uint64_t)`: Идентификатор приватного хранилища данных.
-
-    - `data_id (std::string)`: Идентификатор данных в приватном хранилище.
+    - `profile_hash (std::string)`: Хэш данных зашифрованного профиля в IPFS
 
 ### Получение карточки физлица
 Для получения карточки физлица, необходимо обратиться по стандартизированному API к хранилищу приватных данных, предоставив цифровую подпись аккаунта, чьи данные запрашиваются, или кооператива, который производил регистрацию. 
