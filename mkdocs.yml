@@ -9,7 +9,7 @@ theme:
   features:
     - navigation.indexes 
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
     - search.share
 repo_url: https://github.com/dicoop/contracts
 plugins:
