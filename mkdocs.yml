@@ -1,4 +1,4 @@
-site_name: Цифровой Кооператив
+site_name: Кооперативная Экономика
 theme:
   name: material
   # custom_dir: overrides
@@ -8,7 +8,7 @@ theme:
   language: ru
   features:
     - navigation.path
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
@@ -43,7 +43,12 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true   
 nav:
-  - Добро пожаловать: welcome/index.md
-  - Создать аккаунт: registration.md
-  - Вступить в пайщики: joincoop.md
-  # - Обозреватель: https://google.com
+  - О платформе: 
+    - welcome/index.md
+    
+  - Пользователям: 
+    - instructions/index.md
+    - Создать аккаунт: registration.md
+    - Вступить в пайщики: joincoop.md
+  - Разработчикам: https://dev.dicoop.space/html/index.html
+  - Обозреватель: https://explorer.dicoop.space
