@@ -104,7 +104,7 @@ title: Регистрация аккаунта
 !!! note "Команда регистрации аккаунта"
     === "cleos"
         ```bash
-        cleos push action registrator '["payer", "referer", "username", "uid", "public_key", "cpu", "net", "ram_bytes", "meta"]' -p payer
+        cleos push action registrator '["payer", "referer", "username", "public_key", "meta"]' -p payer
         ```
     === "js"
         ```javascript
@@ -120,11 +120,7 @@ title: Регистрация аккаунта
                 payer: "payer",
                 referer: "referer",
                 username: "username",
-                uid: "uid",
                 public_key: "public_key",
-                cpu: "cpu",
-                net: "net",
-                ram_bytes: "ram_bytes",
                 meta: "meta"
             },
           }]
@@ -145,20 +141,8 @@ title: Регистрация аккаунта
     - `username` (eosio::name)
         - Имя нового пользователя, который будет зарегистрирован.
         
-    - `uid` (std::string)
-        - Уникальный идентификатор пользователя.
-        
     - `public_key` (eosio::public_key)
         - Публичный ключ нового пользователя.
-        
-    - `cpu` (eosio::asset)
-        - Количество ресурсов CPU, выделенных для нового аккаунта.
-        
-    - `net` (eosio::asset)
-        - Количество ресурсов NET, выделенных для нового аккаунта.
-        
-    - `ram_bytes` (uint64_t)
-        - Количество RAM (в байтах), выделенное для нового аккаунта.
         
     - `meta` (std::string)
         - Дополнительная метаинформация или заметки к аккаунту.
