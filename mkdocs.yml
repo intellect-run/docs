@@ -1,11 +1,13 @@
-site_name: Цифровой Кооператив
+site_name: Кооперативная Экономика
 
 theme:
   name: material
   # custom_dir: overrides
   palette:
     primary: indigo
-  # logo: assets/logo.png
+  
+  logo: assets/logo-white.png
+
   language: ru
   features:
     - navigation.path
@@ -15,7 +17,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.expand
     - toc.follow
-    # - toc.integrate
+    - toc.integrate
     - search.share
 repo_url: https://github.com/dicoop
 
@@ -25,11 +27,13 @@ plugins:
     # - social:
     #   cards_layout: default
 
-  
+    # - literate-nav:
+      # nav_file: SUMMARY.md
+
 extra:
   generator: false
 
-copyright: Copyright &copy; 2023
+# copyright: Copyright &copy; 2023
 
 markdown_extensions:
   - admonition
@@ -39,18 +43,23 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - md_in_html
   - toc:
       permalink: true
   - pymdownx.tabbed:
       alternate_style: true   
 nav:
-  - О платформе: 
-    - welcome/index.md
-    
-  - Пользователям: 
+  - О платформе:
+    - index.md
+  - Цифровой Кооператив: 
+    - dicoop/index.md
+
+  - Инструкции: 
     - instructions/index.md
-    - Создать аккаунт: registration.md
-    - Вступить в пайщики: joincoop.md
+    # - Создать аккаунт: registration.md
+    # - Вступить в пайщики: joincoop.md
   - Разработчикам: https://dev.dicoop.space/html/index.html
   - Обозреватель: https://explorer.dicoop.space
