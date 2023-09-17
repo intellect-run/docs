@@ -19,6 +19,9 @@ theme:
     - toc.follow
     - toc.integrate
     - search.share
+    - navigation.top
+    - navigation.footer
+    
 repo_url: https://github.com/dicoop
 
 plugins:
@@ -33,7 +36,7 @@ plugins:
 extra:
   generator: false
 
-# copyright: Copyright &copy; 2023
+copyright: АНО «Кооперативная Экономика» &copy; 2023
 
 markdown_extensions:
   - admonition
