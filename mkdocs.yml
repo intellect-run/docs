@@ -12,7 +12,7 @@ theme:
   features:
     - navigation.path
     - navigation.tabs
-    - navigation.sections
+    # - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.expand
@@ -55,16 +55,10 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 nav:
-  - Доктрина:
-      - "": index.md
-      # - Цифровые валюты Центральных Банков: digital-currencies.md
-      # - Моральная (этичная) экономика: moral-economic.md
-      # - Цифровизация: moral-economic.md
-      # - Национальная Идея: moral-economic.md
-  - Цифровой Кооператив:
-      - "": dicoop/index.md
-  - Вопрос - ответ:
-      - instructions/index.md
+  - Доктрина: index.md
+      
+  - Цифровой Кооператив: dicoop/index.md
+  - Вопрос - ответ: instructions/index.md
     # - Создать аккаунт: registration.md
     # - Вступить в пайщики: joincoop.md
   - Разработчикам: https://dev.dicoop.space/html/index.html
