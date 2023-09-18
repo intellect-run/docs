@@ -11,11 +11,11 @@ theme:
   language: ru
   features:
     - navigation.path
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
-    - navigation.expand
+    # - navigation.expand
     # - toc.follow
     - toc.integrate
     - search.share
@@ -56,7 +56,6 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Доктрина: index.md
-      
   - Цифровой Кооператив: dicoop/index.md
   - Вопрос - ответ: instructions/index.md
     # - Создать аккаунт: registration.md
