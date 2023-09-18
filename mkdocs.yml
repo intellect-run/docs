@@ -17,7 +17,7 @@ theme:
     - navigation.instant.prefetch
     # - navigation.expand
     # - toc.follow
-    - toc.integrate
+    # - toc.integrate
     - search.share
     - navigation.top
     # - navigation.footer
