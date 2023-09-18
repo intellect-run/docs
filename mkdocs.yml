@@ -12,15 +12,15 @@ theme:
   features:
     - navigation.path
     - navigation.tabs
-    # - navigation.sections
+    - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.expand
-    - toc.follow
+    # - toc.follow
     - toc.integrate
     - search.share
     - navigation.top
-    - navigation.footer
+    # - navigation.footer
     
 repo_url: https://github.com/dicoop
 
@@ -56,14 +56,13 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Доктрина:
-      - index.md
-      - Цифровые валюты Центральных Банков: digital-currencies.md
-      - Экономическая доктрина кооперативной экономики: doctrine.md
-      - Моральная (этичная) экономика: moral-economic.md
-      - Цифровизация: moral-economic.md
-      - Национальная Идея: moral-economic.md
+      - "": index.md
+      # - Цифровые валюты Центральных Банков: digital-currencies.md
+      # - Моральная (этичная) экономика: moral-economic.md
+      # - Цифровизация: moral-economic.md
+      # - Национальная Идея: moral-economic.md
   - Цифровой Кооператив:
-      - dicoop/index.md
+      - "": dicoop/index.md
   - Вопрос - ответ:
       - instructions/index.md
     # - Создать аккаунт: registration.md
