@@ -56,10 +56,11 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Доктрина: index.md
-  - Цифровой Кооператив: dicoop/index.md
-  - Вопрос - ответ: instructions/index.md
+  - Платформа: dicoop/index.md
+  # - Вопрос - ответ: instructions/index.md
     # - Создать аккаунт: registration.md
     # - Вступить в пайщики: joincoop.md
-  - Разработчикам: https://dev.dicoop.space/html/index.html
-  - Маркетплейс: https://change.dicoop.space
+  - Открытый код: https://github.com/dicoop
+  # - Разработчикам: https://dev.dicoop.space/html/index.html
+  # - Маркетплейс: https://change.dicoop.space
   - Обозреватель: https://explorer.dicoop.space
