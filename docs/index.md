@@ -331,6 +331,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Проблемы внедрения исламского банкинга в России
 
+
 ![Image title](/assets/DALL·E 2023-10-19 21.04.38 - Realistic pencil sketch on a white background of a conference room. A Russian financial expert is presenting a traditional banking model on a board wi.png){ align=left }
 
 
@@ -384,7 +385,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Роль кооперации в России
 
-![Image title](/assets/DALL·E 2023-10-19 21.37.12 - Pencil sketch on a white background visualizing the Russian concept of 'Dacha' (summer house) but made entirely of cooperative principles and symbols.png){ align=left }
+![Image title](/assets/DALL·E 2023-10-19 21.37.12 - Pencil sketch on a white background visualizing the Russian concept of but made entirely of cooperative principles and symbols.png){ align=left }
 
 
 Традиции, сложившиеся в России в докапиталистическую эпоху, а также опыт советского периода 1929-1953 годов, оставили неизгладимый след в современном правовом поле страны. Эти традиции, основанные на принципах качества, ответственности, экономии ресурсов, справедливости и солидарности, нашли свое отражение в законах о кооперативах.
