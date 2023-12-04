@@ -22,7 +22,7 @@ theme:
     - navigation.top
     # - navigation.footer
     
-repo_url: https://github.com/dicoop
+repo_url: https://github.com/intellect-run
 
 plugins:
   - search
