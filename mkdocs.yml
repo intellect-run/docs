@@ -4,23 +4,35 @@ theme:
   name: material
   # custom_dir: overrides
   palette:
-    primary: indigo
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: black
+      accent: teal
 
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: black
+      accent: teal
+  
   logo: assets/logo-white.png
 
   language: ru
   features:
     - navigation.path
-    # - navigation.tabs
+    - navigation.tabs
     # - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     # - navigation.expand
     # - toc.follow
-    # - toc.integrate
+    - toc.integrate
     - search.share
     - navigation.top
-    # - navigation.footer
+    - navigation.footer
     
 repo_url: https://github.com/intellect-run
 
@@ -56,11 +68,9 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Доктрина: index.md
-  # - Платформа: dicoop/index.md
-  # - Вопрос - ответ: instructions/index.md
-    # - Создать аккаунт: registration.md
-    # - Вступить в пайщики: joincoop.md
-  # - Открытый код: https://github.com/dicoop
-  # - Разработчикам: https://dev.dicoop.space/html/index.html
-  # - Маркетплейс: https://change.dicoop.space
-  # - Обозреватель: https://explorer.dicoop.space
+  - Платформа: dicoop/index.md
+  - Вопрос - ответ: instructions/index.md
+  - Документация: dev/index.md
+  # - Документация: https://dev.dicoop.space/html/index.html
+  - Подключение: joincoop.md
+ 
