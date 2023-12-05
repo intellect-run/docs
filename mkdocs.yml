@@ -69,8 +69,8 @@ markdown_extensions:
 nav:
   - Доктрина: index.md
   - Платформа: dicoop/index.md
-  - Вопрос - ответ: instructions/index.md
   - Документация: dev/index.md
+  - Вопрос - ответ: instructions/index.md
   # - Документация: https://dev.dicoop.space/html/index.html
   - Подключение: joincoop.md
  
