@@ -68,9 +68,12 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Доктрина: index.md
+  - Словарь: vocabulary.md
   - Платформа: dicoop/index.md
   - Документация: dev/index.md
-  - Вопрос - ответ: instructions/index.md
+  - Вопрос - ответ: instructions/index.md  
+  - Подключиться: joincoop.md
+  # - Витрина: joincoop.md
   # - Документация: https://dev.dicoop.space/html/index.html
-  - Подключение: joincoop.md
+  
  
