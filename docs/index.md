@@ -2,7 +2,7 @@
 
 Современная Россия стоит на пороге важных социальных и экономических изменений. Глубокие социальные расколы, формировавшиеся на протяжении десятилетий, сегодня стали ярко выраженными. Большинство населения страны чувствует себя отрезанным от главных решений в экономической и политической сферах. Примерно 80% граждан не являются членами каких-либо общественных объединений, и, стоит отметить, почти 94% уверены, что их мнение не может оказать влияния на государственную политику.
 
-![Image title](/assets/DALL·E 2023-10-19 00.19.23 - Pencil sketch on white background_ A wall separating two groups of people. On the left, a larger crowd with expressions of concern, some holding placa.png){ align=center }
+![assets/DALL·E 2023-10-19 00.19.23 - Pencil sketch on white background_ A wall separating two groups of people. On the left, a larger crowd with expressions of concern, some holding placa.png](assets/DALL%C2%B7E%202023-10-19%2000.19.23%20-%20Pencil%20sketch%20on%20white%20background_%20A%20wall%20separating%20two%20groups%20of%20people.%20On%20the%20left,%20a%20larger%20crowd%20with%20expressions%20of%20concern,%20some%20holding%20placa.png)
 
 Эта явно выраженная социальная апатия, без сомнения, связана с глубоким чувством социального неравенства и потерей ориентиров. Многие люди смотрят в будущее с опаской, сомневаясь в возможности изменения текущего положения вещей.
 
@@ -10,7 +10,7 @@
 
 ### Прекариат как новый социальный класс
 
-![Image title](/assets/DALL·E 2023-10-19 00.30.04 - Pencil sketch on white background_ An urban setting in Russia with workers on the left, busy with construction, welding, and other tasks. A prominent .png){ align=left }
+![assets/DALL·E 2023-10-19 00.30.04 - Pencil sketch on white background_ An urban setting in Russia with workers on the left, busy with construction, welding, and other tasks. A prominent .png](assets/DALL%C2%B7E%202023-10-19%2000.30.04%20-%20Pencil%20sketch%20on%20white%20background_%20An%20urban%20setting%20in%20Russia%20with%20workers%20on%20the%20left,%20busy%20with%20construction,%20welding,%20and%20other%20tasks.%20A%20prominent%20.png)
 
 
 Современный мир экономики и труда переживает радикальные изменения. Возникновение нового социального класса, известного как прекариат, стало следствием этих трансформаций. Слово "прекариат" произошло от латинского "precarious" — что-то ненадежное, неустойчивое. Вот именно такой жизнью обладает прекариат: нестабильной, непредсказуемой, полной неопределенностей.
@@ -25,7 +25,7 @@
 
 ### Теневая экономика
 
-![Image title](/assets/DALL·E 2023-10-19 00.32.52 - Pencil sketch on white background_ A bustling underground market representing the shadow economy. Stalls with goods not labeled, people exchanging mon.png){ align=left }
+![assets/DALL·E 2023-10-19 00.32.52 - Pencil sketch on white background_ A bustling underground market representing the shadow economy. Stalls with goods not labeled, people exchanging mon.png](assets/DALL%C2%B7E%202023-10-19%2000.32.52%20-%20Pencil%20sketch%20on%20white%20background_%20A%20bustling%20underground%20market%20representing%20the%20shadow%20economy.%20Stalls%20with%20goods%20not%20labeled,%20people%20exchanging%20mon.png)
 
 Теневая экономика, нередко называемая "нелегальной" или "невидимой", занимает центральное место в жизни прекариата. Это обширная сфера экономической деятельности, которая обходится стороной официального учета, налогообложения и государственного регулирования. И хотя теневая экономика встречается практически во всех странах мира, в России она приобретает особую масштабность и роль.
 
@@ -39,7 +39,7 @@
 
 ### Экономическая автономия прекариата
 
-![Image title](/assets/DALL·E 2023-10-19 00.35.39 - Pencil sketch on white background_ A group of precariat individuals, diverse in age and ethnicity, gathered around a table, brainstorming and planning.png){ align=left }
+![assets/DALL·E 2023-10-19 00.35.39 - Pencil sketch on white background_ A group of precariat individuals, diverse in age and ethnicity, gathered around a table, brainstorming and planning.png](assets/DALL%C2%B7E%202023-10-19%2000.35.39%20-%20Pencil%20sketch%20on%20white%20background_%20A%20group%20of%20precariat%20individuals,%20diverse%20in%20age%20and%20ethnicity,%20gathered%20around%20a%20table,%20brainstorming%20and%20planning.png)
 
 
 Прекариат, находясь на периферии официальной экономики, вынужден искать способы самоорганизации, чтобы обеспечивать себе существование. В своей сути, это класс людей, которые оказались в ситуации экономической неопределенности и нестабильности. Все это вынуждает их адаптироваться, создавая собственные, часто неформальные, экономические механизмы.
@@ -55,7 +55,7 @@
 
 ### Пандемия как толчок для прекариата
 
-![Image title](/assets/DALL·E 2023-10-19 00.38.30 - Pencil sketch on white background_ A detailed drawing of a virus cell with its characteristic spikes and structures, isolated and prominently displaye.png){ align=left }
+![assets/DALL·E 2023-10-19 00.38.30 - Pencil sketch on white background_ A detailed drawing of a virus cell with its characteristic spikes and structures, isolated and prominently displaye.png](assets/DALL%C2%B7E%202023-10-19%2000.38.30%20-%20Pencil%20sketch%20on%20white%20background_%20A%20detailed%20drawing%20of%20a%20virus%20cell%20with%20its%20characteristic%20spikes%20and%20structures,%20isolated%20and%20prominently%20displaye.png)
 
 Пандемия коронавируса, начавшаяся в 2020 году, нанесла серьезный удар по основной составляющей прекариата в России - малому и среднему бизнесу. Это стало настоящим испытанием для сотен тысяч предпринимателей, многие из которых были вынуждены закрыть свои предприятия.
 
@@ -70,7 +70,7 @@
 
 ### Санкции и их воздействие на бизнес
 
-![Image title](/assets/DALL·E 2023-10-19 00.42.16 - Pencil sketch on white background_ A large brick wall labeled 'Sanctions' blocks a road leading to Europe. However, Russian businessmen on stilts are .png){ align=left }
+![assets/DALL·E 2023-10-19 00.42.16 - Pencil sketch on white background_ A large brick wall labeled 'Sanctions' blocks a road leading to Europe. However, Russian businessmen on stilts are .png](assets/DALL%C2%B7E%202023-10-19%2000.42.16%20-%20Pencil%20sketch%20on%20white%20background_%20A%20large%20brick%20wall%20labeled%20'Sanctions'%20blocks%20a%20road%20leading%20to%20Europe.%20However,%20Russian%20businessmen%20on%20stilts%20are%20.png)
 
 
 Санкции стали еще одним испытанием для российской экономики и, в частности, для малого и среднего предпринимательства (МСП). Несмотря на активные действия Правительства РФ для минимизации их влияния, последствия для МСП оказались глубокими и многочисленными.
@@ -85,7 +85,7 @@
 
 ### Недобросовестная конкуренция крупного бизнеса
 
-![Image title](/assets/DALL·E 2023-10-19 00.45.00 - Sketch drawing of a huge corporate building overshadowing a row of small shops and stalls, representing large businesses dominating over small enterpr.png){ align=left }
+![assets/DALL·E 2023-10-19 00.45.00 - Sketch drawing of a huge corporate building overshadowing a row of small shops and stalls, representing large businesses dominating over small enterpr.png](assets/DALL%C2%B7E%202023-10-19%2000.45.00%20-%20Sketch%20drawing%20of%20a%20huge%20corporate%20building%20overshadowing%20a%20row%20of%20small%20shops%20and%20stalls,%20representing%20large%20businesses%20dominating%20over%20small%20enterpr.png)
 
 
 Современный бизнес-ландшафт России столкнулся с еще одной проблемой, осложнившей ситуацию для малого и среднего предпринимательства. Сокращение спроса и уменьшение доходов крупных компаний привело к тому, что многие из них стали искать новые источники доходов. В результате их внимание обратилось к тем секторам, которые традиционно были заняты МСП.
@@ -97,7 +97,7 @@
 
 ### Кредитно-денежная политика
 
-![Image title](/assets/DALL·E 2023-10-19 01.12.45 - Pencil sketch on a white background of a labyrinth symbolizing the complexity of credit and monetary policy. The labyrinth should be intricate and det.png){ align=left }
+![assets/DALL·E 2023-10-19 01.12.45 - Pencil sketch on a white background of a labyrinth symbolizing the complexity of credit and monetary policy. The labyrinth should be intricate and det.png](assets/DALL%C2%B7E%202023-10-19%2001.12.45%20-%20Pencil%20sketch%20on%20a%20white%20background%20of%20a%20labyrinth%20symbolizing%20the%20complexity%20of%20credit%20and%20monetary%20policy.%20The%20labyrinth%20should%20be%20intricate%20and%20det.png)
 
 
 Казалось бы, инициативы, направленные на поддержку малого и среднего бизнеса через кредитование, должны были дать положительные результаты. Однако кредитно-денежная политика в РФ демонстрирует ряд противоречий.
@@ -114,7 +114,7 @@
 
 ### Налоговая система
 
-![Image title](/assets/DALL·E 2023-10-19 01.16.36 - Pencil drawing on a white background showing a businessman balancing on a tightrope above a maze, representing the challenges faced by businesses navi.png){ align=left }
+![assets/DALL·E 2023-10-19 01.16.36 - Pencil drawing on a white background showing a businessman balancing on a tightrope above a maze, representing the challenges faced by businesses navi.png](assets/DALL%C2%B7E%202023-10-19%2001.16.36%20-%20Pencil%20drawing%20on%20a%20white%20background%20showing%20a%20businessman%20balancing%20on%20a%20tightrope%20above%20a%20maze,%20representing%20the%20challenges%20faced%20by%20businesses%20navi.png)
 
 
 На текущий момент налоговая система России является весьма сложной и запутанной из-за многочисленных налогов, сборов и акцизов. Государство, кажется, ставит свои финансовые интересы на первое место, забывая о потребностях бизнеса.
@@ -127,7 +127,7 @@
 
 ### Админстративная нагрузка
 
-![Image title](/assets/DALL·E 2023-10-19 01.19.29 - Pencil drawing on a white background that visualizes the idea of administrative load. An entrepreneur running in a hamster wheel, constantly trying to.png){ align=left }
+![assets/DALL·E 2023-10-19 01.19.29 - Pencil drawing on a white background that visualizes the idea of administrative load. An entrepreneur running in a hamster wheel, constantly trying to.png](assets/DALL%C2%B7E%202023-10-19%2001.19.29%20-%20Pencil%20drawing%20on%20a%20white%20background%20that%20visualizes%20the%20idea%20of%20administrative%20load.%20An%20entrepreneur%20running%20in%20a%20hamster%20wheel,%20constantly%20trying%20to.png)
 
 В современной экономике России предприниматели сталкиваются с множеством преград, которые замедляют развитие бизнеса и снижают эффективность деятельности. Одна из таких проблем – это огромная административная нагрузка. Чтобы запустить или поддерживать бизнес, предпринимателям необходимо получить массу разрешений, лицензий, согласований. Также им приходится уделять много времени и ресурсов на подключение к коммунальным услугам и составление различных отчетов. Примером могут служить сложные системы, такие как "Платон", регламенты для перевозок товаров и другие.
 
@@ -139,7 +139,7 @@
 
 
 ### Деградация Либерально-Капиталистической Модели экономики
-![Image title](/assets/DALL·E 2023-10-19 01.21.02 - Pencil sketch on white background_ A massive, deteriorating structure representing the 'Liberal-Capitalist Economic Model' with visible cracks and dec.png){ align=left }
+![assets/DALL·E 2023-10-19 01.21.02 - Pencil sketch on white background_ A massive, deteriorating structure representing the 'Liberal-Capitalist Economic Model' with visible cracks and dec.png](assets/DALL%C2%B7E%202023-10-19%2001.21.02%20-%20Pencil%20sketch%20on%20white%20background_%20A%20massive,%20deteriorating%20structure%20representing%20the%20'Liberal-Capitalist%20Economic%20Model'%20with%20visible%20cracks%20and%20dec.png)
 
 После завершения Второй мировой войны либерально-капиталистическая модель экономики заняла доминирующее положение в мировой экономической арене. Однако с течением времени этот порядок начал показывать признаки деградации, особенно при переходе к финансово-спекулятивной составляющей. В результате этого процесса основной капитал многих ведущих экономик мира стал испытывать трудности с воспроизводством. Астрономические долги накопились, создавая диспропорции и подвергая рискам устойчивость финансовых систем.
 
@@ -148,7 +148,7 @@
 В ответ на угрозу, мировые финансовые элиты начали предпринимать шаги для стабилизации ситуации. Одним из первых таких шагов стало "плавное торможение" экономики, проявившееся в виде ковидного режима самоизоляции в многих странах. Это, однако, был только временный план. В настоящее время элиты переходят к более радикальным мерам, вспоминая исторически апробированные сценарии для удержания своего доминирующего положения. Таким сценарием стало разжигание мирового конфликта, который уже менняет глобальный порядок и баланс сил.
 
 ### Американская Гегемония
-![Image title](/assets/DALL·E 2023-10-19 01.24.57 - Pencil sketch on white background_ An imposing digital structure labeled 'USA' stands tall, radiating beams of light, representing its dominance in th.png){ align=left }
+![assets/DALL·E 2023-10-19 01.24.57 - Pencil sketch on white background_ An imposing digital structure labeled 'USA' stands tall, radiating beams of light, representing its dominance in th.png](assets/DALL%C2%B7E%202023-10-19%2001.24.57%20-%20Pencil%20sketch%20on%20white%20background_%20An%20imposing%20digital%20structure%20labeled%20'USA'%20stands%20tall,%20radiating%20beams%20of%20light,%20representing%20its%20dominance%20in%20th.png)
 
 С приходом IT-революции многие страны в мире столкнулись с новыми вызовами и возможностями. Используя доллар как экономическое оружие, США быстро ухватили инициативу в борьбе за доминирование и в новом надпространственном мире.
 
@@ -159,7 +159,7 @@
 ## Цифровые валюты центральных банков
 ### CBDC
 
-![Image title](/assets/DALL·E 2023-10-19 12.31.59 - Pencil sketch on white background_ A classic central bank building with pillars, from which digital lines and circuits emerge, leading to a futuristic.png){ align=left }
+![assets/DALL·E 2023-10-19 12.31.59 - Pencil sketch on white background_ A classic central bank building with pillars, from which digital lines and circuits emerge, leading to a futuristic.png](assets/DALL%C2%B7E%202023-10-19%2012.31.59%20-%20Pencil%20sketch%20on%20white%20background_%20A%20classic%20central%20bank%20building%20with%20pillars,%20from%20which%20digital%20lines%20and%20circuits%20emerge,%20leading%20to%20a%20futuristic.png)
 
 
 Цифровые валюты центральных банков, известные как CBDC (Central Bank Digital Currencies), в последнее время привлекают всё больше внимания на мировой арене. Однако перед тем как углубляться в детали, важно понять, чем они отличаются от обычных криптовалют.
@@ -179,7 +179,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Курс на трансформацию
 
-![Image title](/assets/DALL·E 2023-10-19 12.36.46 - Pencil sketch on white background_ A grand central bank edifice with the label 'ЦБ РФ', amidst a transformation. Surrounding it are cranes and workers.png){ align=left }
+![assets/DALL·E 2023-10-19 12.36.46 - Pencil sketch on white background_ A grand central bank edifice with the label 'ЦБ РФ', amidst a transformation. Surrounding it are cranes and workers.png](assets/DALL%C2%B7E%202023-10-19%2012.36.46%20-%20Pencil%20sketch%20on%20white%20background_%20A%20grand%20central%20bank%20edifice%20with%20the%20label%20'%D0%A6%D0%91%20%D0%A0%D0%A4',%20amidst%20a%20transformation.%20Surrounding%20it%20are%20cranes%20and%20workers.png)
 
 
 Центральные банки во всем мире активно изучают потенциал и возможности, которые предлагает внедрение цифровых валют центральных банков (CBDC). Причин для этого множество: от потребности в модернизации платежных систем до желания укрепить монетарный суверенитет в цифровую эпоху.
@@ -194,7 +194,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Прогнозируемые последствия от внедрения цифровых валют ЦБ
 
-![Image title](/assets/DALL·E 2023-10-19 12.47.43 - Pencil sketch on white background_ A large digital screen displaying CBDC transactions with the shadow of the state looming over it. Citizens below, w.png){ align=left }
+![assets/DALL·E 2023-10-19 12.47.43 - Pencil sketch on white background_ A large digital screen displaying CBDC transactions with the shadow of the state looming over it. Citizens below, w.png](assets/DALL%C2%B7E%202023-10-19%2012.47.43%20-%20Pencil%20sketch%20on%20white%20background_%20A%20large%20digital%20screen%20displaying%20CBDC%20transactions%20with%20the%20shadow%20of%20the%20state%20looming%20over%20it.%20Citizens%20below,%20w.png)
 
 Внедрение цифровых валют центральных банков (CBDC) может стать поворотным моментом в истории глобальной финансовой системы. Оно предполагает глубокое преобразование не только механизмов платежей, но и структуры традиционной банковской системы в целом.
 
@@ -212,8 +212,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### "Программируемые деньги": к цифровому рабству и системам рейтинга.
 
-![Image title](/assets/DALL·E 2023-10-19 12.51.41 - Pencil sketch on white background_ A giant hand labeled 'State Control' holding a digital leash attached to a human's neck. The human is trying to rea.png
-){ align=left }
+![assets/DALL·E 2023-10-19 12.51.41 - Pencil sketch on white background_ A giant hand labeled 'State Control' holding a digital leash attached to a human's neck. The human is trying to rea.png](assets/DALL%C2%B7E%202023-10-19%2012.51.41%20-%20Pencil%20sketch%20on%20white%20background_%20A%20giant%20hand%20labeled%20'State%20Control'%20holding%20a%20digital%20leash%20attached%20to%20a%20human's%20neck.%20The%20human%20is%20trying%20to%20rea.png)
 
 Введение CBDC представляет собой не только технологическую инновацию, но и возможное изменение социальной и экономической парадигмы. Одно из ключевых понятий, связанных с этим введением, - это идея "программируемых денег". Эти деньги могут быть настроены таким образом, чтобы их можно было тратить только на определенные товары или услуги, в определенных местах или даже в определенное время. Такой подход может казаться привлекательным для регулирования экономики и управления потребительским поведением, однако он также влечет за собой ряд серьезных социальных последствий.
 
@@ -226,8 +225,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Пути развития экономической модели России: торговый капитализм или посткапитализм?
 
-![Image title](/assets/DALL·E 2023-10-19 12.59.07 - Pencil sketch on white background where Russia is depicted as a figure pondering two paths. One path is characterized by vintage trade symbols, while .png
-){ align=left }
+![assets/DALL·E 2023-10-19 12.59.07 - Pencil sketch on white background where Russia is depicted as a figure pondering two paths. One path is characterized by vintage trade symbols, while .png](assets/DALL%C2%B7E%202023-10-19%2012.59.07%20-%20Pencil%20sketch%20on%20white%20background%20where%20Russia%20is%20depicted%20as%20a%20figure%20pondering%20two%20paths.%20One%20path%20is%20characterized%20by%20vintage%20trade%20symbols,%20while%20.png)
 
 Столкновение с новыми экономическими реалиями, в частности с внедрением цифровых валют, ставит перед Россией задачу выбора будущей экономической модели. Один из возможных путей – это возвращение к модели торгового капитализма, который был характерен для многих стран до конца XVIII века. Эта модель имеет прочную экономическую базу, опираясь на мировую и трансрегиональную торговлю, и может представляться естественным шагом в условиях глобализации.
 
@@ -240,8 +238,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Традиционные ценности против либерально-капиталистической идеологии
 
-![Image title](/assets/DALL·E 2023-10-19 13.29.46 - Pencil sketch on white background illustrating a dramatic tug of war. Bankers, dressed in formal attire, pull from one end of the rope. Opposing them,.png
-){ align=left }
+![assets/DALL·E 2023-10-19 13.29.46 - Pencil sketch on white background illustrating a dramatic tug of war. Bankers, dressed in formal attire, pull from one end of the rope. Opposing them,.png](assets/DALL%C2%B7E%202023-10-19%2013.29.46%20-%20Pencil%20sketch%20on%20white%20background%20illustrating%20a%20dramatic%20tug%20of%20war.%20Bankers,%20dressed%20in%20formal%20attire,%20pull%20from%20one%20end%20of%20the%20rope.%20Opposing%20them,.png)
 
 
 В мире, где цифровые технологии и глобальная экономика меняют социокультурную динамику, происходит борьба идеологий. С одной стороны, либерально-капиталистические ценности, основанные на корпоративной выгоде и индивидуализме, с другой – традиционные ценности, укорененные в религиозных учениях и культурном наследии.
@@ -254,8 +251,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Взгляд Аристотеля на экономику и современные вызовы
 
-![Image title](/assets/DALL·E 2023-10-19 19.18.34 - Pencil sketch on white background_ Aristotle sitting at his study table with scrolls and books, glancing with a sad expression at a modern stack of mo.png
-){ align=left }
+![assets/DALL·E 2023-10-19 19.18.34 - Pencil sketch on white background_ Aristotle sitting at his study table with scrolls and books, glancing with a sad expression at a modern stack of mo.png](assets/DALL%C2%B7E%202023-10-19%2019.18.34%20-%20Pencil%20sketch%20on%20white%20background_%20Aristotle%20sitting%20at%20his%20study%20table%20with%20scrolls%20and%20books,%20glancing%20with%20a%20sad%20expression%20at%20a%20modern%20stack%20of%20mo.png)
 
 
 Еще Аристотель определял экономику как осознанную деятельность по созданию благ, необходимых для удовлетворения потребностей человека и общества. Антиподом экономике он видел хрематистику - учение об индивидуальном обогащении - одной из фундаментальных причин современной энтропии и кризиса мировой экономики. Сегодня мы столкнулись с тем, что в экономике доминирует хрематистическое мышление. Именно оно лежит в основе спекулятивной модели, которая во многом опирается на идеи либерализма. 
@@ -264,8 +260,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Отношение к ссудному проценту в истории и религии
 
-![Image title](/assets/DALL·E 2023-10-19 19.37.51 - Realistic pencil sketch on white background showing Jesus with a determined expression turning over the tables of money changers in the Jerusalem temp.png
-){ align=left }
+![assets/DALL·E 2023-10-19 19.37.51 - Realistic pencil sketch on white background showing Jesus with a determined expression turning over the tables of money changers in the Jerusalem temp.png](assets/DALL%C2%B7E%202023-10-19%2019.37.51%20-%20Realistic%20pencil%20sketch%20on%20white%20background%20showing%20Jesus%20with%20a%20determined%20expression%20turning%20over%20the%20tables%20of%20money%20changers%20in%20the%20Jerusalem%20temp.png)
 
 Ссудный процент не всегда пользовался одобрением в истории человечества. Великие мыслители, такие как Аристотель и Платон, осуждали практику займов ради прибыли. Даже в библейские времена, две тысячи лет назад, Иисус предостерегал людей от служения деньгам, утверждая, что человек не может служить одновременно "и Богу, и Маммоне".
 
@@ -277,8 +272,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Исламский взгляд на ссудный процент
 
-![Image title](/assets/DALL·E 2023-10-19 19.42.31 - Realistic pencil sketch on white background showing a serene mosque setting with believers praying and a prominent banner with verses from the Quran c.png
-){ align=left }
+![assets/DALL·E 2023-10-19 19.42.31 - Realistic pencil sketch on white background showing a serene mosque setting with believers praying and a prominent banner with verses from the Quran c.png](assets/DALL%C2%B7E%202023-10-19%2019.42.31%20-%20Realistic%20pencil%20sketch%20on%20white%20background%20showing%20a%20serene%20mosque%20setting%20with%20believers%20praying%20and%20a%20prominent%20banner%20with%20verses%20from%20the%20Quran%20c.png)
 
 Исламское мировоззрение также считает ссудный процент, или рибу, нечестной и аморальной практикой. В Коране, священной книге мусульман, на ссудный процент смотрят с осуждением, приравнивая его к наиболее тяжелым грехам.
 
@@ -300,8 +294,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Исламская экономическая доктрина и её особенности
 
-![Image title](/assets/DALL·E 2023-10-19 19.48.30 - Realistic pencil sketch on white background depicting the facade of an Islamic bank, with an emblem showcasing the balance between commerce and Sharia.png
-){ align=left }
+![assets/DALL·E 2023-10-19 19.48.30 - Realistic pencil sketch on white background depicting the facade of an Islamic bank, with an emblem showcasing the balance between commerce and Sharia.png](assets/DALL%C2%B7E%202023-10-19%2019.48.30%20-%20Realistic%20pencil%20sketch%20on%20white%20background%20depicting%20the%20facade%20of%20an%20Islamic%20bank,%20with%20an%20emblem%20showcasing%20the%20balance%20between%20commerce%20and%20Sharia.png)
 
 Исламская экономическая ддоктрина отражает уникальное слияние моральных принципов и экономических практик. Этот феномен является частью более широкой концепции моральной или этичной экономики, где экономические решения принимаются с учетом и в соответствии с этическими нормами. В контексте исламской экономики эти нормы направлены на достижение социальной справедливости.
 
@@ -315,7 +308,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Исламский банкинг и его место в глобальной экономике
 
-![Image title](/assets/DALL·E 2023-10-19 19.51.33 - Realistic pencil sketch on white background illustrating a conference room where officials from various countries are discussing the integration of Is.png){ align=left }
+![assets/DALL·E 2023-10-19 19.51.33 - Realistic pencil sketch on white background illustrating a conference room where officials from various countries are discussing the integration of Is.png](assets/DALL%C2%B7E%202023-10-19%2019.51.33%20-%20Realistic%20pencil%20sketch%20on%20white%20background%20illustrating%20a%20conference%20room%20where%20officials%20from%20various%20countries%20are%20discussing%20the%20integration%20of%20Is.png)
 
 Мировой финансовый рынок огромен и разнообразен, однако исламский сектор, несмотря на свою уникальность и особенности, составляет лишь малую долю от общего объема. Разбивая исламский финансовый рынок по секторам, можно выделить исламский банкинг, страхование "Такафул", облигации "сукук", другие исламские финансовые учреждения (OIFL) и исламские фонды.
 
@@ -332,7 +325,7 @@ CBDC – это цифровая форма национальной валют�
 ### Проблемы внедрения исламского банкинга в России
 
 
-![Image title](/assets/DALL·E 2023-10-19 21.04.38 - Realistic pencil sketch on a white background of a conference room. A Russian financial expert is presenting a traditional banking model on a board wi.png){ align=left }
+![assets/DALL·E 2023-10-19 21.04.38 - Realistic pencil sketch on a white background of a conference room. A Russian financial expert is presenting a traditional banking model on a board wi.png](assets/DALL%C2%B7E%202023-10-19%2021.04.38%20-%20Realistic%20pencil%20sketch%20on%20a%20white%20background%20of%20a%20conference%20room.%20A%20Russian%20financial%20expert%20is%20presenting%20a%20traditional%20banking%20model%20on%20a%20board%20wi.png)
 
 
 Центральный банк Российской Федерации, согласно законодательству, действует на основе ссудного процента, что является фундаментом функционирования кредитно-денежной системы страны. Это представляет собой традиционную модель финансирования, в которой проценты служат главным инструментом управления денежной массой и рефинансирования.
@@ -349,7 +342,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Переосмысление банковской деятельности в контексте моральной экономики
 
-![Image title](/assets/DALL·E 2023-10-19 21.12.25 - Realistic pencil sketch on a white background of an old Russian town square. At its center, a statue of a traditional banker holding coins, surrounded.png){ align=left }
+![assets/DALL·E 2023-10-19 21.12.25 - Realistic pencil sketch on a white background of an old Russian town square. At its center, a statue of a traditional banker holding coins, surrounded.png](assets/DALL%C2%B7E%202023-10-19%2021.12.25%20-%20Realistic%20pencil%20sketch%20on%20a%20white%20background%20of%20an%20old%20Russian%20town%20square.%20At%20its%20center,%20a%20statue%20of%20a%20traditional%20banker%20holding%20coins,%20surrounded.png)
 
 
 В понимании большинства, банковская деятельность тесно связана с кредитованием и, следовательно, взиманием процентов. Суть этого процесса исходит из его определения: когда кредитор предоставляет денежные средства заемщику на определенных условиях, одним из которых является платность или взимание процентов.
@@ -366,7 +359,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Историческая роль кооперации в СССР
 
-![Image title](/assets/DALL·E 2023-10-19 21.29.14 - Pencil sketch on a white background illustrating a panoramic view of the Soviet countryside_ A large collective farm (колхоз) is bustling with activit.png){ align=left }
+![assets/DALL·E 2023-10-19 21.29.14 - Pencil sketch on a white background illustrating a panoramic view of the Soviet countryside_ A large collective farm (колхоз) is bustling with activit.png](assets/DALL%C2%B7E%202023-10-19%2021.29.14%20-%20Pencil%20sketch%20on%20a%20white%20background%20illustrating%20a%20panoramic%20view%20of%20the%20Soviet%20countryside_%20A%20large%20collective%20farm%20(%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7)%20is%20bustling%20with%20activit.png)
 
 
 Кооператив представляет собой автономную ассоциацию граждан, которые по собственной воле решают объединяться с целью удовлетворения своих общих экономических и социальных потребностей. В основе такого объединения лежат принципы самоуправления, взаимопомощи, взаимовыручки и по-настоящему демократического управления.
@@ -385,7 +378,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Роль кооперации в России
 
-![Image title](/assets/DALL·E 2023-10-19 21.37.12 - Pencil sketch on a white background visualizing the Russian concept of but made entirely of cooperative principles and symbols.png){ align=left }
+![assets/DALL·E 2023-10-19 21.37.12 - Pencil sketch on a white background visualizing the Russian concept of but made entirely of cooperative principles and symbols.png](assets/DALL%C2%B7E%202023-10-19%2021.37.12%20-%20Pencil%20sketch%20on%20a%20white%20background%20visualizing%20the%20Russian%20concept%20of%20but%20made%20entirely%20of%20cooperative%20principles%20and%20symbols.png)
 
 
 Традиции, сложившиеся в России в докапиталистическую эпоху, а также опыт советского периода 1929-1953 годов, оставили неизгладимый след в современном правовом поле страны. Эти традиции, основанные на принципах качества, ответственности, экономии ресурсов, справедливости и солидарности, нашли свое отражение в законах о кооперативах.
@@ -399,7 +392,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Путь к этичной экономике в России
 
-![Image title](/assets/DALL·E 2023-10-19 21.40.18 - Realistic pencil sketch on white background_ A Russian farmer standing next to an Orthodox church on one side and a mosque on the other. In his hands,.png){ align=left }
+![assets/DALL·E 2023-10-19 21.40.18 - Realistic pencil sketch on white background_ A Russian farmer standing next to an Orthodox church on one side and a mosque on the other. In his hands,.png](assets/DALL%C2%B7E%202023-10-19%2021.40.18%20-%20Realistic%20pencil%20sketch%20on%20white%20background_%20A%20Russian%20farmer%20standing%20next%20to%20an%20Orthodox%20church%20on%20one%20side%20and%20a%20mosque%20on%20the%20other.%20In%20his%20hands,.png)
 
 Моральные доктрины, такие как исламская и православная экономика, предоставляют основу для разработки экономических систем, в которых превалируют принципы справедливости, общественной ответственности и устойчивости. Удивительно, но эти принципы находят свое воплощение в потребительской кооперации, особенно в ее некоммерческой форме.
 
@@ -422,7 +415,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Коммерческая и некоммерческая кооперация
 
-![Image title](/assets/DALL·E 2023-10-19 21.50.14 - Detailed pencil sketch portraying a split scene. On the left, a corporate boardroom with stressed executives, representing the commercial cooperative.png){ align=left }
+![assets/DALL·E 2023-10-19 21.50.14 - Detailed pencil sketch portraying a split scene. On the left, a corporate boardroom with stressed executives, representing the commercial cooperative.png](assets/DALL%C2%B7E%202023-10-19%2021.50.14%20-%20Detailed%20pencil%20sketch%20portraying%20a%20split%20scene.%20On%20the%20left,%20a%20corporate%20boardroom%20with%20stressed%20executives,%20representing%20the%20commercial%20cooperative.png)
 
 Когда мы говорим о потребительской кооперации, мы можем выделить два её формата: коммерческая и некоммерческая. 
 
@@ -436,7 +429,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Многофункциональность некоммерческих потребительских кооперативов
 
-![Image title](/assets/DALL·E 2023-10-19 21.58.06 - Realistic pencil sketch on a white background of an intricate ecosystem-like diagram of a cooperative. The cooperative is depicted as a self-sufficien.png){ align=left }
+![assets/DALL·E 2023-10-19 21.58.06 - Realistic pencil sketch on a white background of an intricate ecosystem-like diagram of a cooperative. The cooperative is depicted as a self-sufficien.png](assets/DALL%C2%B7E%202023-10-19%2021.58.06%20-%20Realistic%20pencil%20sketch%20on%20a%20white%20background%20of%20an%20intricate%20ecosystem-like%20diagram%20of%20a%20cooperative.%20The%20cooperative%20is%20depicted%20as%20a%20self-sufficien.png)
 
 Некоммерческие потребительские кооперативы являются мощным инструментом в руках людей, желающих объединять свои ресурсы ради общих целей. 
 
@@ -453,8 +446,7 @@ CBDC – это цифровая форма национальной валют�
 Таким образом, некоммерческий потребительский кооператив представляет собой многофункциональный инструмент, который может быть адаптирован под конкретные потребности и задачи его участников.
 
 ### Платформа для кооперации в России
-
-![Image title](/assets/DALL·E 2023-10-19 22.06.24 - Sketch of a bustling modern Russian market with vendors selling goods, while above them a large holographic interface displays prices, promotions, and.png){ align=left }
+![assets/DALL·E 2023-10-19 22.06.24 - Sketch of a bustling modern Russian market with vendors selling goods, while above them a large holographic interface displays prices, promotions, and.png](assets/DALL%C2%B7E%202023-10-19%2022.06.24%20-%20Sketch%20of%20a%20bustling%20modern%20Russian%20market%20with%20vendors%20selling%20goods,%20while%20above%20them%20a%20large%20holographic%20interface%20displays%20prices,%20promotions,%20and.png)
 
 Потребительская кооперация в России предоставляет уникальную платформу для формирования морально-этичной экономики. В то время как большинство финансовых структур стремится к оптимизации своих операций в рамках современного банковского сектора, потребительские кооперативы предлагают альтернативный путь.
 
@@ -469,7 +461,7 @@ CBDC – это цифровая форма национальной валют�
 
 ## Цифровизация как залог масштабирования моральной экономики
 
-![Image title](/assets/DALL·E 2023-10-19 22.08.29 - Sketch of a Russian cooperative meeting in a modern boardroom. As members discuss, holographic charts and data are projected in the air, showcasing th.png){ align=left }
+![assets/DALL·E 2023-10-19 22.08.29 - Sketch of a Russian cooperative meeting in a modern boardroom. As members discuss, holographic charts and data are projected in the air, showcasing th.png](assets/DALL%C2%B7E%202023-10-19%2022.08.29%20-%20Sketch%20of%20a%20Russian%20cooperative%20meeting%20in%20a%20modern%20boardroom.%20As%20members%20discuss,%20holographic%20charts%20and%20data%20are%20projected%20in%20the%20air,%20showcasing%20th.png)
 
 В основе некоммерческой потребительской кооперации (НПК), как формата моральной экономики, лежит общественный (общинный) принцип управления, характеризующийся равенством всех участников (один пайщик - один голос), выборностью управленческого звена, его подотчетностью собранию всех участников, коллегиальностью принятия решений. 
 
@@ -479,8 +471,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Цифровая трансформация как ключ к справедливой экономике
 
-![Image title](/assets/DALL·E 2023-10-19 21.35.07 - Realistic pencil sketch on a white background of a time-traveling cooperative member_ Wearing traditional Russian attire but holding modern tools like.png
-){ align=left }
+![assets/DALL·E 2023-10-19 21.35.07 - Realistic pencil sketch on a white background of a time-traveling cooperative member_ Wearing traditional Russian attire but holding modern tools like.png](assets/DALL%C2%B7E%202023-10-19%2021.35.07%20-%20Realistic%20pencil%20sketch%20on%20a%20white%20background%20of%20a%20time-traveling%20cooperative%20member_%20Wearing%20traditional%20Russian%20attire%20but%20holding%20modern%20tools%20like.png)
 
 Чтобы создать экономику, которая отвечает моральным стандартам и интересам тех, кто живет в нестабильных условиях в России, одним из ключевых инструментов становится цифровизация. Цифровые технологии выступают своего рода "клеем", который объединяет людей. 
 
@@ -497,7 +488,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Роль блокчейна и смарт-контрактов в устойчивости кооперативной экономики
 
-![Image title](/assets/DALL·E 2023-10-19 22.11.30 - Realistic pencil sketch on a white background of a Russian marketplace where vendors and customers use blockchain tech for transactions. In the center.png){ align=left }
+![assets/DALL·E 2023-10-19 22.11.30 - Realistic pencil sketch on a white background of a Russian marketplace where vendors and customers use blockchain tech for transactions. In the center.png](assets/DALL%C2%B7E%202023-10-19%2022.11.30%20-%20Realistic%20pencil%20sketch%20on%20a%20white%20background%20of%20a%20Russian%20marketplace%20where%20vendors%20and%20customers%20use%20blockchain%20tech%20for%20transactions.%20In%20the%20center.png)
 
 
 Технология распределенного реестра (блокчейн), вносит революционные изменения в управление и финансы кооперативной экономики. Они позволяют использовать математику для точного учета всех операций, гарантируют коллективное принятие решений и обеспечивает их надежное исполнение с помощью криптографии.
@@ -508,7 +499,7 @@ CBDC – это цифровая форма национальной валют�
 
 
 ### Цифровые технологии как инструменты эффективного управления и контроля
-![Image title](/assets/DALL·E 2023-10-19 22.02.44 - Realistic pencil sketch on white background of a large digital screen in the center of a Russian town square. On the screen, there are interactive cha.png){ align=left }
+![assets/DALL·E 2023-10-19 22.02.44 - Realistic pencil sketch on white background of a large digital screen in the center of a Russian town square. On the screen, there are interactive cha.png](assets/DALL%C2%B7E%202023-10-19%2022.02.44%20-%20Realistic%20pencil%20sketch%20on%20white%20background%20of%20a%20large%20digital%20screen%20in%20the%20center%20of%20a%20Russian%20town%20square.%20On%20the%20screen,%20there%20are%20interactive%20cha.png)
 
 
 Эффективное управление требует не только экономической, но и ценностной экспертизы, а также строгого соблюдения этических норм. В этом контексте цифровые технологии представляют собой идеальный инструмент для обеспечения эффективности и надежности.
@@ -520,7 +511,7 @@ CBDC – это цифровая форма национальной валют�
 
 ### Цифровая Трансформация как Шанс для России
 
-![Image title](/assets/DALL·E 2023-10-19 22.23.13 - Pencil sketch on a white background where Saint Basil's Cathedral on Red Square is transformed into a shimmering holographic structure, representing t.png){ align=left }
+![assets/DALL·E 2023-10-19 22.23.13 - Pencil sketch on a white background where Saint Basil's Cathedral on Red Square is transformed into a shimmering holographic structure, representing t.png](assets/DALL%C2%B7E%202023-10-19%2022.23.13%20-%20Pencil%20sketch%20on%20a%20white%20background%20where%20Saint%20Basil's%20Cathedral%20on%20Red%20Square%20is%20transformed%20into%20a%20shimmering%20holographic%20structure,%20representing%20t.png)
 
 В условиях быстро меняющегося мира и возрастающей цифровизации, Россия имеет все шансы стать одним из лидеров в развитии кооперативной экономики на основе современных технологий. Цифровая трансформация может стать катализатором для развития не только экономики в целом, но и для повышения уровня жизни каждого отдельного человека.
 
